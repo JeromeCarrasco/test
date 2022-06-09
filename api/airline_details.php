@@ -69,7 +69,6 @@ function redirect_function($responseData,$decodedData)
 
         break;
 
-
         default:
 
     }
